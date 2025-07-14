@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a PhD student in Political Science at McGill University, where I study Canadian politics, public policy, and multilevel governance, with a focus on urban and social policy.
+Hello! I’m a PhD student in Political Science at [McGill University](https://www.mcgill.ca/politicalscience/) and member of the [Center for the Study of Democratic Citizenship](https://csdc-cecd.ca/en/), where I study Canadian politics, public policy, and multilevel governance, with a focus on urban and social policy.
 
 I hold a BA (Honors) in Political Science from the [University of Alberta](https://www.ualberta.ca/en/political-science/index.html)
 , an MA from the [University of British Columbia](https://politics.ubc.ca/), and I’m currently completing my doctorate under the supervision of [Dr. Daniel Béland](https://www.mcgill.ca/politicalscience/daniel-beland). I am grateful to be supported by a SSHRC Canada Graduate Scholarship (CGS-D), with previous funding through a SSHRC CGS-M and a Fulbright Killam Fellowship at the [Center for the Study of Canada](https://www.plattsburgh.edu/academics/cesca/) at the [State University of New York at Plattsburgh](https://www.plattsburgh.edu/).

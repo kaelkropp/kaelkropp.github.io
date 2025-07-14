@@ -6,31 +6,31 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">
+You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Published
 
+- **Carey Doberstein, Katelynn Kowalchuk, and Kael Kropp** (2025). “The political character of agency and board appointments in Alberta.” *Canadian Journal of Political Science*. (forthcoming).
 
+- **Kael Kropp** (2024). “Review of *The Role of Canadian City Managers: In Their Own Words* by Michael Fenn, Gordon McIntosh, and David Siegel.” *Canadian Journal of Political Science*, 57(3): 716–717. [https://doi.org/10.1017/S0008423924000209](https://doi.org/10.1017/S0008423924000209).
 
+## In Preparation
+
+- **Kael Kropp**, “Place-framing as jurisdiction shaping: how local decision-makers navigate competing interests over land use.”
+
+- **Brooke Steinhauer and Kael Kropp**, “Party influence on gender representation in Canadian municipal politics.”
+
+## Reports & Non-Peer Reviewed Publications
+
+- **Sydney Bartos, Kael Kropp, and Karina Valcke-Beckett** (2023). *Reducing Renters’ Carbon Footprint in the City of Vancouver*. City of Vancouver, Green Buildings Department.
+
+## Public Writing
+
+- **Kael Kropp, Sydney Bartos, and Karina Valcke-Beckett** (2024). “Why Canada needs a rental unit energy report card program.” *Policy Options*, May 27, 2024. [Link](https://policyoptions.irpp.org/magazines/may-2024/rental-unit-energy/).
+
+- **Kael Kropp and Stephen Raitz** (2024). “Golf courses aren’t a fair way to use Edmonton’s river valley.” *The Edmonton Journal*, April 8, 2024. [Link](https://edmontonjournal.com/opinion/columnists/opinion-golf-courses-arent-a-fair-way-to-use-edmontons-river-valley).

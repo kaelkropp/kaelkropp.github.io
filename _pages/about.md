@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Kael Kropp"
 author_profile: true
 redirect_from:
   - /about/

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Kael Kropp"
 title_separator          : "-"
 name                     : &name "Kael Kropp"
-description              : &description "PhD Candidate in Political Science, McGill University"
+description              : &description "PhD Student in Political Science, McGill University"
 url                      : https://kaelkropp.ca
 baseurl                  : ""
 repository               : "kaelkropp/kaelkropp.github.io"
@@ -22,10 +22,9 @@ author:
   avatar           : "Kael_HeadShot-2.JPG"
   name             : "Kael Kropp"
   pronouns         : "he/him"
-  bio              : "PhD Candidate at McGill University studying Canadian politics, public policy, and urban governance."
-  location         : "Montreal, QC"
+  bio              : "PhD Student at McGill University studying Canadian politics, public policy, and urban governance."
+  location         : "Montréal, QC"
   employer         : "McGill University"
-  uri              : "https://kaelkropp.ca"
   email            : "kael.kropp@mail.mcgill.ca"
 
   # Academic profiles
@@ -38,7 +37,7 @@ author:
   # Social media (you can add more later)
   linkedin         : "kaelkropp"
   twitter          : "kaelkropp1"
-  bluesky          : "kaelkropp.bsky.social‬" # Replace this with you Bluesky username
+  bluesky          : "kaelkropp.bsky.social‬"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

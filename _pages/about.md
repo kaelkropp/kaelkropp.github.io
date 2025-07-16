@@ -12,7 +12,7 @@ I hold a BA (Honors) in Political Science from the [University of Alberta](https
 
 My dissertation examines the multilevel governance of disability support services in Canada, comparing how provincial institutions and intergovernmental relationships shape service delivery in British Columbia, Alberta, Ontario, and Québec. I focus on how these dynamics shape local oversight, funding arrangements, and service delivery outcomes in areas such as housing, employment, and community supports, using a mixed-methods approach that combines documentary analysis, budget data, and interviews with public servants, service providers, and advocates.
 
-I also maintain research agendas in municipal politics, focusing on local public administration and urban governance, as well as agencification and political appointments to agencies, boards, and commissions. My work has been published in the _Canadian Journal of Political Science_ and I regularly contribute to public policy consultations.
+I also maintain research agendas in municipal politics, focusing on local public administration and urban governance, as well as agencification and political appointments to agencies, boards, and commissions. My work has been published in the _Canadian Journal of Political Science_ and I regularly contribute to policy consultations and Canadian media.
 
 Outside of research, I am actively engaged in Alberta's disability non-profit sector, and serve on the Board of Directors of the [Canadian Political Science Association](https://cpsa-acsp.ca/about/).
 

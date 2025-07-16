@@ -40,3 +40,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom color overrides */
+.site-header {
+  background-color: #709ccd; /* Replace with your preferred hex code */
+}
+
+.site-header a {
+  color: #ffffff; /* Optional: ensures menu links are visible */
+}

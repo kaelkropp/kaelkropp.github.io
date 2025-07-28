@@ -1,5 +1,5 @@
 ---
-title: "The political character of agency and board appointments in Alberta"
+title: "The Political Character of Agency and Board Appointments in Alberta"
 collection: publications
 category: manuscripts
 permalink: 

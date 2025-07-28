@@ -1,7 +1,7 @@
 ---
 title: "The Role of Canadian City Managers: In Their Own Words"
 collection: publications
-category: book reviews
+category: manuscripts
 permalink: https://www-cambridge-org.proxy3.library.mcgill.ca/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/role-of-canadian-city-managers-in-their-own-words-michael-fenn-gordon-mcintosh-and-david-siegel-eds-toronto-university-of-toronto-press-2023-doi-1031389781487555382/5C0D7B578F9FE8A3517DA6FC880B668D?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark
 excerpt: 'In this highly original volume, editors Michael Fenn, Gordon McIntosh and David Siegel assemble a comprehensive and long overdue glimpse into the complex and dynamic role of city managers across Canada. Featuring chapters authored by seasoned city managers and municipal chief administrative officers, this book meticulously explores the challenges and strategic engagements that define modern municipal management. Each contributor shares candid narratives from their professional lives, providing a practical perspective that bridges the gap between theoretical frameworks and the realities of municipal governance.'
 date: 2024-08-22

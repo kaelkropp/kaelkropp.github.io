@@ -1,10 +1,9 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kael Kropp",
+    "email": "kael.kropp@mail.mcgill.ca",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kaelkropp.ca",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,35 +32,35 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "McGill University",
+      "area": "Ph.D in Political Science",
+      "studyType": "Canadian & Comparative Politics",
+      "startDate": "2023",
+      "endDate": "In Progress",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of British Columbia",
+      "area": "M.A. in Political Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Alberta",
+      "area": "B.A. (Honors) in Political Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [English, French (Beginner)],
   "interests": [],
   "references": [],
   "publications": [
